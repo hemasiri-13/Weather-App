@@ -16,7 +16,7 @@ This is a simple and interactive Weather Application that allows users to select
 ## 🌐 Website Live Link
 
 👉 [**Click here to view the live Weather App**](https://wwweatherrapp.netlify.app/)  
-*(Replace with your actual hosted URL like GitHub Pages or Vercel)*
+
 
 ---
 
